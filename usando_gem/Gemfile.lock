@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_utils (1.3.0)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  cpf_utils (= 1.3.0)
+
+BUNDLED WITH
+   1.17.2
